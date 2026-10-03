@@ -11,8 +11,8 @@ ISO 14229（UDS）诊断服务详解与报文示例 — 纯静态单页笔记站
 修改 Markdown 后重新生成并推送：
 
 ```bash
-python .workbuddy/md2html.py        # 在工作区根目录执行，重新生成 uds-notes/index.html
-cd uds-notes
+python .workbuddy/md2html.py        # 在工作区根目录执行，重新生成本仓库的 index.html
+cd github/ChaseKB
 git add index.html
 git commit -m "update notes"
 git push
