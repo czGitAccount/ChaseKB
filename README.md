@@ -1,6 +1,13 @@
-# UDS 诊断笔记（个人知识库）
+# ChaseKB（个人知识库）
 
-ISO 14229（UDS）诊断服务详解与报文示例 — 纯静态单页笔记站，由 Markdown 自动生成，GitHub Pages 托管。
+个人知识笔记站，纯静态单页，由 Markdown 自动生成，GitHub Pages 托管。
+
+## 目录结构
+
+- `index.html` — 笔记站主页（由 notes/ 下的 Markdown 生成）
+- `notes/` — 笔记原档归档（Markdown 源文件 + 参考资料 PDF）
+  - `ISO14229_UDS诊断服务详解与报文示例.md`
+  - `AUTOSAR_CP_SWS_DiagnosticCommunicationManager.pdf`
 
 ## 在线访问
 
